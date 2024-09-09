@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeMarathon_sponsorship", "CodeMarathon_sponsorship.csproj", "{3EDB31E2-2D40-4514-9C34-37EBC34B154C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EDB31E2-2D40-4514-9C34-37EBC34B154C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDB31E2-2D40-4514-9C34-37EBC34B154C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDB31E2-2D40-4514-9C34-37EBC34B154C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDB31E2-2D40-4514-9C34-37EBC34B154C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C2D0337-EAF3-49C7-914C-32C9045EE398}
+	EndGlobalSection
+EndGlobal

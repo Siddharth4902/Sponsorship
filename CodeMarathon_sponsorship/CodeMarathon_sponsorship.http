@@ -1,0 +1,6 @@
+@CodeMarathon_sponsorship_HostAddress = http://localhost:5167
+
+GET {{CodeMarathon_sponsorship_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

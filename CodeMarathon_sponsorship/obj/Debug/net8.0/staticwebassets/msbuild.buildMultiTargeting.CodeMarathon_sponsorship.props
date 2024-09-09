@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodeMarathon_sponsorship.props" />
+</Project>
